@@ -30,7 +30,7 @@
     <ul>
         <li><a href="https://www.instagram.com/p/CGFSQ-3nqt5MSK3GX_hVTBGqlcsjHrZNupzIqc0/" target="_blank">Video
                 Editing</a></li>
-        <li><a href="" target="_blank"></a>
+        <li>
             Photo Editing
         </li>
         
