@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <img src="Karthik.png"
+    <img src="https://hosting.photobucket.com/images/i/Mr_Kart/Screenshot_2020_11_19_122234.png?width=285&height=175&fit=bounds&crop=fill"
         alt="Karthik Picture">
     <h1>Karthik H Kamath</h1>
     <p> Currently I am an <strong>electronics</strong> student of<strong> MIT, Manipal</strong>. </p>
