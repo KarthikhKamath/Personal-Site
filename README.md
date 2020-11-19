@@ -4,34 +4,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Forms</title>
+    <title>Karthik's personal website.</title>
 </head>
-<h1>Form</h1>
 
 <body>
-    <form action="backend.php"></form>
-    <!-- here name means the data that backend gets from these inputs -->
+    <img src="Karthik.png"
+        alt="Karthik Picture">
+    <h1>Karthik H Kamath</h1>
+    <p> Currently I am an <strong>electronics</strong> student of<strong> MIT, Manipal</strong>. </p>
+    <hr>
+    <h3>Interests:</h3>
+    
+    <ul> 
+        <li><a href="https://www.instagram.com/p/CGFSQ-3nqt5MSK3GX_hVTBGqlcsjHrZNupzIqc0/" target="_blank">Video
+                Editing</a></li>
+        <li><a href="" target="_blank"></a>
+            Photo Editing
+        </li>
+        </li>
+        <li>
+            Singing</li>
+        <li>Coding.</li>
+    </ul>
+   
 
-    <br><label for="name"> Name</label>
-    <div> <input type="text" name="user name" id="name"></div>
-    <br>
-    <div> Class:<input type="number" name="user class"></div>
-    <br>
-    <div>Roll Number:<input type="number"></div>
-        <br>
-        <div>DOB:<input type="date" name= "birth date"></div>
-        <br>
-        <div>Gender: Male<input type="radio" name="gender">Female<input type="radio" name="gender">Other<input type="radio" name="gender"></div>
-            <br>
-            <div>Email: <input type="email" name=" email"></div>
-            <br>
-            <div>Eligible: <input type="checkbox" name="Eligibility"></div>
-            <br>
-            <br>
-            <input type="submit" name="submit">
-            
-            
-            <input type="reset" name="reset Now">
+    <hr>
+    <h3>Education:</h3>
+
+    <ul>
+        <li><strong>Class: 1-10</strong> Christ School Manipal.</li>
+        <li><strong>Class: <strong></strong> 11-12</strong> Vidyodaya Pre University.</li>
+        <li><strong>Engineering</strong> MIT, Manipal.</li>
+    </ul>
+    <hr>
+<h3>Contact Me</h3>
+<p><strong>Phone:</strong> 9632382065</p>
+<p><strong>Instagram:</strong> mr_kart </p>
+<p><strong>E-mail:</strong> harowar2002@gmail.com</p>
+<hr>
+
+
 </body>
-                       
+
 </html>
