@@ -34,7 +34,7 @@
             Photo Editing
         </li>
         
-        <li>
+        
             Singing</li>
         <li>Coding.</li>
     </ul>
