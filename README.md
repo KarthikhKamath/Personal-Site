@@ -33,7 +33,7 @@
         <li><a href="" target="_blank"></a>
             Photo Editing
         </li>
-        </li>
+        
         <li>
             Singing</li>
         <li>Coding.</li>
